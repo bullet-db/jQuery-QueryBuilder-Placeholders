@@ -1,0 +1,26 @@
+{
+  "name": "jQuery-QueryBuilder-Placeholders",
+  "version": "1.0.0",
+  "authors": [{
+    "name": "Akshai Sarma",
+    "email": "akshaisarma@gmail.com"
+  }],
+  "description": "Adds the ability to add custom placeholders based on the filter operator for the Query Builder plugin",
+  "main": "query-builder-placeholders.js",
+  "dependencies": {
+    "jQuery-QueryBuilder": "^2.4.0"
+  },
+  "keywords": [
+    "jquery",
+    "query",
+    "builder",
+    "placeholders"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yahoo/jQuery-QueryBuilder-Placeholders.git"
+  }
+}
+
