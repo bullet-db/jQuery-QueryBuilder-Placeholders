@@ -20,6 +20,6 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git://github.com/yahoo/jQuery-QueryBuilder-Placeholders.git"
+    "url": "git://github.com/bullet-db/jQuery-QueryBuilder-Placeholders.git"
   }
 }
